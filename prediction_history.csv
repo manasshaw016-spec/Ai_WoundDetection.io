@@ -1,0 +1,19 @@
+timestamp,filename,prediction,category,severity,risk,confidence,wound_area_percentage,redness_ratio
+2026-07-28 14:13:17,images (20).jpg,Wound,Pressure Ulcer,Severe,High,62.6,67.29,55.65
+2026-07-28 14:14:01,images (20).jpg,Wound,Pressure Ulcer,Severe,High,62.6,67.29,55.65
+2026-07-28 14:14:04,images (20).jpg,Wound,Pressure Ulcer,Severe,High,62.6,67.29,55.65
+2026-07-28 14:15:24,images (20).jpg,Wound,Pressure Ulcer,Severe,High,62.6,67.29,55.65
+2026-07-28 14:15:59,Diabetic foot ulcer.jpg,Healthy,Healthy,Mild,Low,90.9,77.39,66.85
+2026-07-28 14:16:26,Diabetic foot ulcer.jpg,Healthy,Healthy,Mild,Low,90.9,77.39,66.85
+2026-07-28 15:13:58,ulcers (1).jpg,Healthy,Healthy,Mild,Low,90.2,64.85,61.0
+2026-07-28 17:19:15,diabetic-foot-ulcer.jpg,Wound,Pressure Ulcer,Severe,High,68.8,54.51,52.77
+2026-07-28 17:20:19,diabetic-foot-ulcer.jpg,Wound,Pressure Ulcer,Severe,High,68.8,54.51,52.77
+2026-07-28 17:25:13,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
+2026-07-28 17:25:18,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
+2026-07-28 17:25:34,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
+2026-07-28 17:25:37,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
+2026-07-28 17:25:38,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
+2026-07-28 17:26:05,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
+2026-07-28 17:26:35,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
+2026-07-28 17:35:27,diabetic-foot-ulcer.jpg,Wound,Pressure Ulcer,Severe,High,68.8,54.51,52.77
+2026-07-28 17:35:43,diabetic-foot-ulcer.jpg,Wound,Pressure Ulcer,Severe,High,68.8,54.51,52.77
