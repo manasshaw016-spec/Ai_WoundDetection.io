@@ -17,3 +17,4 @@ timestamp,filename,prediction,category,severity,risk,confidence,wound_area_perce
 2026-07-28 17:26:35,calluses.jpg,Wound,Pressure Ulcer,Severe,High,64.9,84.08,76.66
 2026-07-28 17:35:27,diabetic-foot-ulcer.jpg,Wound,Pressure Ulcer,Severe,High,68.8,54.51,52.77
 2026-07-28 17:35:43,diabetic-foot-ulcer.jpg,Wound,Pressure Ulcer,Severe,High,68.8,54.51,52.77
+2026-07-28 18:54:21,diabetische.jpg,Healthy,Healthy,Mild,Low,62.4,72.12,70.92
